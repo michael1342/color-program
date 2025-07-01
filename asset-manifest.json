@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/color-program/static/css/main.d99c23d4.css",
+    "main.js": "/color-program/static/js/main.b0b260ec.js",
+    "static/js/453.32058b23.chunk.js": "/color-program/static/js/453.32058b23.chunk.js",
+    "index.html": "/color-program/index.html",
+    "main.d99c23d4.css.map": "/color-program/static/css/main.d99c23d4.css.map",
+    "main.b0b260ec.js.map": "/color-program/static/js/main.b0b260ec.js.map",
+    "453.32058b23.chunk.js.map": "/color-program/static/js/453.32058b23.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d99c23d4.css",
+    "static/js/main.b0b260ec.js"
+  ]
+}
